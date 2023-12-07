@@ -75,27 +75,27 @@ Initially, Data Science will help answer four main questions:
 
 **What happened?**
 
-    A generic question, depending on the business area, I will look for the data, I already have a problem identified, I look at that data, apply the analysis techniques and identify what happened.
+A generic question, depending on the business area, I will look for the data, I already have a problem identified, I look at that data, apply the analysis techniques and identify what happened.
 
-    For example, some customers canceled their subscription plan with the telephone company. I found this to be true through the process of analyzing historical data.
+For example, some customers canceled their subscription plan with the telephone company. I found this to be true through the process of analyzing historical data.
 
 **Because it happened?**
 
-    Here I have to apply statistical and mathematical techniques, look for relationships within the data, I have to do this via programming or use some tool that allows data exploration.
+Here I have to apply statistical and mathematical techniques, look for relationships within the data, I have to do this via programming or use some tool that allows data exploration.
 
-    I can use graphs, tables, diagrams to answer why customers canceled their plans with the telephone company.
+I can use graphs, tables, diagrams to answer why customers canceled their plans with the telephone company.
 
 **Will it happen again?**
 
-    I can answer this question through predictive modeling, Machine Learning.
+I can answer this question through predictive modeling, Machine Learning.
 
-    I use the knowledge gained in the analysis process, I train the Machine Learning model and make predictions.
+I use the knowledge gained in the analysis process, I train the Machine Learning model and make predictions.
 
 **What should be done?**
 
-    Although the decision is made by the executive, the manager, etc. As a data professional, I can suggest a solution/suggestion.
+Although the decision is made by the executive, the manager, etc. As a data professional, I can suggest a solution/suggestion.
 
-    May I suggest that customers typically cancel after spending a long time on customer service.
+May I suggest that customers typically cancel after spending a long time on customer service.
 
 Our job is to provide decision-making support. And this entire end-to-end process is what offers value to data analysis.
 
