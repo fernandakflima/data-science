@@ -1,4 +1,4 @@
-## Definition of Data Science
+# Definition of Data Science
 
 Data Science is the term used to define extracting insights from data that is collected from multiple sources.
 
