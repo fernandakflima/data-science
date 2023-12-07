@@ -119,4 +119,4 @@ This means that there is no regulation and any professional, with or without a d
 
 **The ideal question would be:** Which undergraduate course could be most useful for working with Data Science?
 
-[Next note here!]()
+[Next note here!](https://github.com/fernandakflima/data-science/blob/main/data-science/data-science-and-big-data.md)
