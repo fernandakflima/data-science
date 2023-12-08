@@ -20,9 +20,9 @@ Data Science is a multidisciplinary area, that is, we need to look for technique
 
 | Three pillars of Data Science |
 |-------------------------------|
-| **Mathematics and Statistics** | Mathematics and Statistics provide techniques and procedures for calculation, analysis, correlation, transformation, cleaning and interpretation of data. |
-| **Computer Science** | Computer Science provides the tools used in the analysis process, such as computer programming, parallel storage and processing, and optimization of the execution time of analysis processes. |
-| **Knowledge of business areas** | The objective of Data Science is to solve business problems and domain knowledge (business area) is essential to know how to interpret data and the results of the analysis process. |
+| **Mathematics and Statistics** - Mathematics and Statistics provide techniques and procedures for calculation, analysis, correlation, transformation, cleaning and interpretation of data. |
+| **Computer Science** - Computer Science provides the tools used in the analysis process, such as computer programming, parallel storage and processing, and optimization of the execution time of analysis processes. |
+| **Knowledge of business areas** - The objective of Data Science is to solve business problems and domain knowledge (business area) is essential to know how to interpret data and the results of the analysis process. |
 
 In essence, Data Science involves the use of automated methods (Computer Science) to analyze (Mathematical and Statistical) huge amounts of data in order to extract knowledge (business areas) from the data.
 
