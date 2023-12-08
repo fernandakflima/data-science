@@ -115,4 +115,4 @@ Big Data Analytics is the application of Data Science to the analysis of Big Dat
 
 With Big Data Analytics the objective is to solve business problems through analyzing data with high volume, variety and generated at high speed.
 
-[Next note here!]()
+[Next note here!](https://github.com/fernandakflima/data-science/blob/main/data-science/data-science-and-statistics.md)
