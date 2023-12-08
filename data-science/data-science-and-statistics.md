@@ -4,7 +4,7 @@ In essence, data science involves the use of automated methods to analyze huge a
 
 Therefore, statistics and data science are not the same thing, statistics is a pillar, a discipline that we use in data science.
 
-## [American Statistical Association](https://www.amstat.org/), Data Science X Statistics
+## [American Statistical Association](https://www.amstat.org/)
 
 *"Through this statement, ASA and its members recognize that data science encompasses more than statistics, but at the same time also recognizes that statistics plays a fundamental role in the rapid growth of this field. It is our hope that this statement can reinforce the relationship between statistics and data science and also foster mutual collaborative relationships between all contributors to data science."*
 
