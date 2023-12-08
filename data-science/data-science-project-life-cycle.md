@@ -135,4 +135,4 @@ A company with a data-driven culture recognizes the importance of Big Data and D
 - Detection of anomalies in financial transactions;
 - A/B testing to compare the effectiveness of different product sales pages.
 
-[Next note here!]()
+[Next note here!](https://github.com/fernandakflima/data-science/blob/main/data-science/soft-skills-and-careers-in-data-science.md)
