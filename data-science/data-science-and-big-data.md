@@ -44,75 +44,75 @@ The first step is to collect the necessary data, the second step is to do the co
 - Measurement;
 - Assumption.
 
-## Dados e Informação
+## Data and Information
 
-**Dados** são coleções de fatos, tais como números, palavras, medições, observações ou mesmo apenas descrições de coisas.
+**Data** are collections of facts, such as numbers, words, measurements, observations or even just descriptions of things.
 
-Os dados podem ser qualquer caracter, texto, palavra, número, imagem, som, ou vídeo e, se não colocados em contexto, significam pouco ou nada para um ser humano.
+Data can be any character, text, word, number, image, sound, or video and, if not placed in context, means little or nothing to a human being.
 
-Eu coleto esses dados e faço análise, limpeza, transformação e transformo em Informação.
+I collect this data and analyze, clean it and transform it into information.
 
-No entanto, a informação é útil e formatada de uma maneira geral, permitindo que seja entendida por um ser humano.
+The information is useful and formatted in a general way, allowing it to be understood by a human being.
 
-**Exemplo:**
+**Example:**
 
-Dado: 55-21-9999-999, pode significar qualquer coisa sem contexto.
+Data: 55-21-9999-999, this data could mean anything, as it is without context.
 
-Informação: 55-21-9999-9999 representa um telefone, tem um contexto, então você entende.
+Information: 55-21-9999-9999 is a personal telephone number, now there is a context and you can understand.
 
-## O que são Datasets?
+## What are Datasets?
 
-- Conjunto de dados.
-- Coleções de observações.
-- Cada observação é tipicamente chamada de registro.
-- Cada registro tem um conjunto de atributos que apontam características, comportamentos ou resultados.
-- Datasets podem ter um registro e um atributo e não há limit máximo.
+- Data set.
+- Collections of observations.
+- Each observation is typically called a record.
+- Each record has a set of attributes that point out characteristics, behaviors or results.
+- Datasets can have one record and one attribute and there is no maximum limit.
 
-## E o Big Data?
+## What about Big Data?
 
-Todo mundo deixa "rastros" quando cria uma conta em rede social, assiste um vídeo na Internet, faz compras online, etc.
+Everyone leaves "traces" when they create an account on a social network, watch a video on the Internet, make purchases online, etc.
 
-São dados como frequência de compra, consumo médio, número de curtidas em posts, pesquisas, etc.
+Data such as purchase frequency, average consumption, number of likes on posts, searches, etc.
 
-Multiplique isso em bilhoes de vezes e você começa a perceber o que é o Big Data.
+Multiply that billions of times and you begin to understand what Big Data is.
 
-Big Data é uma coleção de conjuntos de dados, grandes e complexos, que não podem ser processados por bancos de dados ou aplicações de processamentos tradicionais.
+Big Data is a collection of large and complex data sets that cannot be processed by databases or traditional processing applications.
 
-**Big Data é definido por quatro V's:**
+**Big Data is defined by four V's:**
 
 - Volume;
-- Variedade;
-- Velocidade;
-- Veracidade.
+- Variety;
+- Speed;
+- Veracity.
 
-O Big Data pode ser composto por dados de diferentes fontes e diferentes formatos.
+Big Data can be composed of data from different sources and different formats.
 
-| | Formato dos Dados | |
+| | Data Format | |
 |-|-------------------|-|
-| Interno | Estruturado | Não Estruturado |
-| | Resultados de pesquisas, Registro de vendas, Medidas de controle de processos, Bancos de dados de sistemas internos (ERP, CRM), etc. | E-mail, cartas, Mensagens de texto,Legendas de vídeos, Comentários de clientes, Mensagem de voz, Imagens/Ilustrações, Avaliação de funcionários. etc. |
-| Externo | Likes em postos, Horário de publicações de postos, Updates, Pontuação em sites de classificação, etc. | Conteúdo publicado em redes sociais, Comentários em forum online, Imaens, Vídeos de câmeras de segurança, etc. |
+| Internal | Structured | Unstructured |
+| | Research results, Sales records, Process control measures, Internal systems databases (ERP, CRM), etc. | Email, Letters, Text Messages, Video Captions, Customer Reviews, Voice Message, Images/Illustrations, Employee Reviews, etc. |
+| External | Likes on posts, Post publication times, Updates, Score on rating sites, etc. | Content published on social networks, comments in online forums, images, videos from security cameras, etc. |
 
-## Ciências de Dados e Big Data
+## Data Sciences and Big Data
 
-Big Data é o Combustível para a Ciência de Dados!
+Big Data is the Fuel for Data Science!
 
-Com o volume de dados cada vez maior conseguimos extrair padrões, detectar anomalias, encontrar correlações e fazer previsões de forma cada vez mais precisa.
+With the ever-increasing volume of data, we are able to extract patterns, detect anomalies, find correlations and make predictions in an increasingly accurate way.
 
-O Big Data foi um dos grandes responsáveis pelo crescimento da Ciência de Dados.
+Big Data was largely responsible for the growth of Data Science.
 
-| ERP CRM BI SCM RS | Dados Internos | Dados Externos |
+| ERP CRM BI SCM RS | Internal Data | External Data |
 |-------------------|----------------|----------------|
-| Mídia Social, Análise de Textos, API's, Reconhecimentos de voz, Processamento de linguagem natural, Internet das coisas, Automação, Saas, PaaS | |
-| | Estruturados, prevísiveis, permanentes, fáceis de obter. | |
-| | | Não estruturados, Randômicos, Voláteis, Difíceis de obter. |
+| Social Media, Text Analysis, API's, Speech Recognition, Natural Language Processing, Internet of Things, Automation, Saas, PaaS | |
+| | Structured, predictable, permanent, easy to obtain. | |
+| | | Unstructured, Random, Volatile, Difficult to obtain. |
 
-> Nós tendemos a superestimas o efeito de uma nova tecnologia no curto prazo e subestimar o efeito no longo prazo. - Roy Amara
+> We tend to overestimate the effect of a new technology in the short term and underestimate the effect in the long term. - Roy Amara
 
-## O que é e como aprender Big Data Analytics?
+## What is Big Data Analytics?
 
-Big Data Analytics é a aplicação da Ciência de Dados para a análise de Big Data.
+Big Data Analytics is the application of Data Science to the analysis of Big Data.
 
-Com Big Data Analytics o objetivo é resolver problemas de negócio através de análise de dados com alto volume, variedade e gerados em alta velocidade.
+With Big Data Analytics the objective is to solve business problems through analyzing data with high volume, variety and generated at high speed.
 
 [Next note here!]()
