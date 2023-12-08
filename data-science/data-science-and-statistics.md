@@ -1,81 +1,79 @@
-# Data Science X Estatística
+# Data Science X Statistics
 
-Em essência, a ciência de dados envolve o uso de métodos automátizados (ciência da computação) para analisar (matemática e estatística) enormes quantidades de dados a fim de extrair conhecimento (áreas de negócio) a partir dos dados.
+In essence, data science involves the use of automated methods to analyze huge amounts of data in order to extract knowledge from the data.
 
-Sendo assim, estatística e ciência de dados não são a mesma coisa, a estatística é um pilar, uma disciplina que usamos em ciência de dados.
+Therefore, statistics and data science are not the same thing, statistics is a pillar, a discipline that we use in data science.
 
-## American Statistical Association (ASA), Data Science X Estatística
+## [American Statistical Association](https://www.amstat.org/), Data Science X Statistics
 
-A [American Statistical Association](https://www.amstat.org/) divulgou uma declaração sobre o papel da E#statística na ciência de dados. O Presidente da ASA, David Morganstein, deu esta declaração no seu comunicado de imprensa:
+*"Through this statement, ASA and its members recognize that data science encompasses more than statistics, but at the same time also recognizes that statistics plays a fundamental role in the rapid growth of this field. It is our hope that this statement can reinforce the relationship between statistics and data science and also foster mutual collaborative relationships between all contributors to data science."*
 
-*"Através desta declaração, a ASA e seus membros reconhecem que a ciência de dados abrange mais do que estatística, mas ao mesmo tempo também reconhece que a estatística desempenha um papel fundamental no rápido crescimento deste campo. É nossa esperança que esta declaração possa reforçar a relação da estatística com a ciência de dados e ainda fomentar relacionamento mútuos de colaboração entre todos os contribuintes na ciência de dados.*
+In short, statistics plays a fundamental role within data science, but data science encompasses other areas of knowledge. Data science is a multidisciplinary area and statistics is one of its disciplines.
 
-A declaração evidencia que estatística é fundamental para a ciência de dados, juntamente com gestão de banco de dados, sistemas distribuídos e paralelos, computação, matemática e programação. A sua utilização neste campo emergente capacita pesquisadores para extrair conhecimento e obter melhores resultados de grandes projetos. A declaração também incentiva a colaboração mútua e multifacetada entre estatísticos e cientistas de dados para maximizar o potencial da ciência de dados.
+> Without data you are just another person with an opinion. - William Edwards Deming
 
-Resumindo, a estatística desempenha um papel fundamental dentro da ciência de dados, porém a ciência de dados compreende outras áreas de conhecimento. A ciência de dados é uma área multidisciplinar e a estatística é uma das suas disciplinas.
+## Defining statistics
 
-> Sem dados você é apenas mais uma pessoa com uma opinião. - William Edwards Deming
+Statistics is a set of methods used to analyze data. It can be applied to practically all areas of human knowledge.
 
-## Definindo estatística
+Statistics aims to help understand the events that surround us, providing tools capable of improving our decision-making process in an environment of variations and uncertainties.
 
-Estatística é um conjunto de métodos usados para analisar dados. Pode ser aplicada praticamente todas as áreas do conhecimento humano.
+Statistics is present in all areas that involve planning experiments, building models, collecting data, processing and analyzing data, and their consequent transformation into information, to postulate, refute, or validate scientific hypotheses about an observable phenomenon.
 
-A estatística tem como objetivo auxiliar na compreensão dos eventos que nos cercam, contribuindo com ferramentas capazes de aprimorar o nosso processo de tomada de decisão em um ambiente de variações e incertezas.
+In this way, statistics can be thought of as the science of learning from data.
 
-A estatística está presente em todas as áreas que envolvam planejamento de experimentos, a construção de modelos, coleta de dados, processamento e análise de dados, e a sua consequente transformação em informação, para postular, refutar, ou validar hipoteses cientificas sobre um fenômeno observável.
+In general terms, we can say that statistics provides data analysis techniques and methods that assist the decision-making process in the most varied problems where uncertainty exists.
 
-Desta forma, a estatística pode ser pensada como a ciência de aprendizagem a partir de dados.
+The statistics are present in:
 
-Em termos gerais, podemos dizer que a estatística fornece técnicas e métodos de análise de dados que auxiliam o processo de tomada de decisão nos mais variados problemas onde existe incerteza.
+- Biostatistics;
+- Accounting;
+- Quality control;
+- Commercial statistics;
+- Economic statistics;
+- Engineering statistics;
+- Physical statistics;
+- Population statistics;
+- Psychological statistics;
+- Social statistics;
+- Geostatistics;
+- Operational Research;
+- Process analysis.
 
-A estatística está presente em:
+## Three major areas of statistics
 
-- Bioestatística;
-- Contabilometria;
-- Controle de qualidade;
-- Estatística comercial;
-- Estatística econômica;
-- Estatística de engenharia;
-- Estatística física;
-- Estatística populacional;
-- Estatística psicológica;
-- Estatística social;
-- Geoestatística;
-- Pesquisa operacional;
-- Análise de processo.
+**Probabilidae** - Study of randomness and uncertainty.
 
-## Três grandes áreas da estatística
+**Descriptive Statistics** - Uses methods for collecting, organizing, presenting, analyzing and synthesizing data obtained from a population or sample.
 
-**Probabilidae** - Estudo da aleatoriedade e da incerteza.
+**Inferential Statistics** - It is the process of estimating information about a population based on the results observed in a sample.
 
-**Estatística Descritiva** - Utiliza métodos para coleta, organização, apresentação, análise e síntese de dados obtidos de uma população ou amostra.
+## Relationship between Data Science and Statistics
 
-**Estatística Inferencial** - É o processo de estimar informações sobre uma população a partir dos resultados observados em uma amostra.
+Statistics provides tools, techniques, and procedures that can be used at all stages of data science projects.
 
-## Relação entre Ciência de Dados e Estatística
+We use statistics at different times within a project. Furthermore, some Machine Learning algorithms are based on statistical foundations.
 
-A estatística fornece ferramentas, técnicas e procedimentos que podem ser usados em todas as etapas de projetos de ciência de dados.
+Statistics can help assess whether an investment fund's success is genuine or due to chance, it can help predict whether a particular subscriber will cancel their subscription this year or whether an insurance claim is fraudulent.
 
-Usamos estatística em diferentes momentos dentro de um projeto. Além disso, alguns algoritmos de Machine Learning são baseados em fundamentos estatísticos. 
+*Science must prevail over empiricism, logic must prevail over guesswork.*
 
-A estatística pode ajudar a avalair se o sucesso de um fundo de investimentos é genuíno ou devido ao acaso, pode ajudar a prever se um determinado assinante vai cancelar sua assinatura este ano ou se uma reivindicação de seguro é fraudulenta. 
+## Statistics for Data Science
 
-*A ciência deve prevalecer sobre o empirismo, a lógica deve prevalecer sobre o achismo.*
+Level of knowledge in statistics
 
-## Estatística para Ciência de Dados
+**Data Analyst** - Low/medium
 
-Nível de conhecimento em estatística
+**Data Scientist** - High
 
-**Analista de Dados** - Baixo/médio
+**Statistical** - Very high
 
-**Cientista de Dados** - Alto
+Data scientists have three main characteristics:
 
-**Estatístico** - Muito alto
+1. They have a strong understanding of statistics and machine learning, at least enough to avoid misinterpreting correlation and causation.
 
-Os cientista de dados possuem três características principais:
+2. They have computing and programming skills to carry out analysis work.
 
-1. Eles têm um forte conhecimento de estatística e aprendizado de máquina, pelo menos o suficiente para evitar má interpretação de correlação e causalidade.
+3. They can visualize and summarize their data and analysis in a way that is meaningful to someone less familiar with the data.
 
-2. Eles têm habilidades de computação e programação para realizar um trabalho de análise.
-
-3. Eles podem visualizar e resumir seus dados e sua análise de uma maneira que seja significativa para alguém menos familizarizado com os dados.
+[Next note here!]()
