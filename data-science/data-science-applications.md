@@ -137,4 +137,4 @@ Business Intelligence and Data Science have a lot in common and Data Scientists 
 
 [Datahub](http://datahub.io/dataset)
 
-[Next note here!]()
+[Next note here!](https://github.com/fernandakflima/data-science/blob/main/data-science/data-science-project-life-cycle.md)
