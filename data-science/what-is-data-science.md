@@ -4,7 +4,7 @@ Data Science is the term used to define extracting insights from data that is co
 
 Using various techniques, including predictive modeling (Machine Learning), Data Science helps analyze and interpret large amounts of data.
 
-The term Data Science appeared at [EMC](www.emc.com) and is gaining popularity every day.
+The term Data Science appeared at EMC and is gaining popularity every day.
 
 Data Science is the process of extracting valuable information from data. It is a large discipline in itself and consists of specialized skill sets such as: statistics, mathematics, programming, computing and business knowledge, as well as techniques and theories such as predictive analytics, modeling, data mining and visualization.
 
@@ -20,17 +20,11 @@ Data Science is a multidisciplinary area, that is, we need to look for technique
 
 ### Three pillars of Data Science
 
-**Mathematics and Statistics**
-
-Mathematics and Statistics provide techniques and procedures for calculation, analysis, correlation, transformation, cleaning and interpretation of data.
-
-**Computer Science**
-
-Computer Science provides the tools used in the analysis process, such as computer programming, parallel storage and processing, and optimization of the execution time of analysis processes.
-
-**Knowledge of business areas**
-
-The objective of Data Science is to solve business problems and domain knowledge (business area) is essential to know how to interpret data and the results of the analysis process.
+| Three pillars of Data Science | |
+|-------------------------------|-|
+| **Mathematics and Statistics** | Mathematics and Statistics provide techniques and procedures for calculation, analysis, correlation, transformation, cleaning and interpretation of data. |
+| **Computer Science** | Computer Science provides the tools used in the analysis process, such as computer programming, parallel storage and processing, and optimization of the execution time of analysis processes. |
+| **Knowledge of business areas** | The objective of Data Science is to solve business problems and domain knowledge (business area) is essential to know how to interpret data and the results of the analysis process. |
 
 In essence, Data Science involves the use of automated methods (Computer Science) to analyze (Mathematical and Statistical) huge amounts of data in order to extract knowledge (business areas) from the data.
 
@@ -40,14 +34,14 @@ The most important part in Data Science is the scientific part; we apply science
 
 **Expanding the knowledge area diagram**
 
-- Mathematics
-- Statistics
-- Advanced Computing
-- Visualization
-- Data Engineering
-- Business Knowledge
-- Problems solution
-- Scientific Method
+- Mathematics;
+- Statistics;
+- Advanced Computing;
+- Visualization;
+- Data Engineering;
+- Business Knowledge;
+- Problems solution;
+- Scientific Method.
 
 Data Science is the exploration and analysis of all available data, whether structured or unstructured, with the aim of developing understanding, extracting knowledge and formulating actions that generate results.
 
@@ -103,15 +97,15 @@ Our job is to provide decision-making support. And this entire end-to-end proces
 
 There are several roles in Data Science:
 
-- Data Scientist
-- Data Engineer
-- Data Analyst
-- Machine Learning Engineer
-- AI Engineer
-- DataOps Engineer
-- Data Architect
-- Blockchain Engineer
-- RPA developer
+- Data Scientist;
+- Data Engineer;
+- Data Analyst;
+- Machine Learning Engineer;
+- AI Engineer;
+- DataOps Engineer;
+- Data Architect;
+- Blockchain Engineer;
+- RPA developer.
 
 These are FUNCTIONS and not PROFESSIONS.
 
