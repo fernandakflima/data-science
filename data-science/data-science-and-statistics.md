@@ -76,4 +76,4 @@ Data scientists have three main characteristics:
 
 3. They can visualize and summarize their data and analysis in a way that is meaningful to someone less familiar with the data.
 
-[Next note here!]()
+[Next note here!](https://github.com/fernandakflima/data-science/blob/main/data-science/machine-learning-and-MLOps.md)
