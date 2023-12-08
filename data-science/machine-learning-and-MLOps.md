@@ -64,4 +64,4 @@ Each component contributes key elements that work to close the lifecycle of Mach
 
 With origins in developing practices used to help Data Scientists and DevOps teams communicate better using machine learning, MLOps allows you to create workflows and processes to manage the difficulties faced with Machine Learning.
 
-[Next note here!]()
+[Next note here!](https://github.com/fernandakflima/data-science/blob/main/data-science/data-science-applications.md)
