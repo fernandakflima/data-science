@@ -20,7 +20,7 @@ Data Science is a multidisciplinary area, that is, we need to look for technique
 
 ### Three pillars of Data Science
 
-| Three pillars of Data Science |
+| Three pillars of Data Science | |
 |-------------------------------|-|
 | **Mathematics and Statistics** | Mathematics and Statistics provide techniques and procedures for calculation, analysis, correlation, transformation, cleaning and interpretation of data. |
 | **Computer Science** | Computer Science provides the tools used in the analysis process, such as computer programming, parallel storage and processing, and optimization of the execution time of analysis processes. |
