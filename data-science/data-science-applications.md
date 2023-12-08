@@ -80,33 +80,61 @@ Business Intelligence and Data Science have a lot in common and Data Scientists 
 
 ### Open data
 [Brazilian Government Data](http://dados.gov.br)
+
 [IPEA](https://www.ipeadata.gov.br)
+
 [US Government Data](http://data.gov)
+
 [Data on American cities](https://datasf.org)
+
 [Data from the Government of Canada](http://open.canada.ca)
+
 [UK Government Data](https://data.gov.uk)
+
 [European Union Data](http://open-data.europa.eu/en/data)
+
 [World population data](http://www.census.gov)
+
 [NASA data](https://data.nasa.gov)
+
 [Data from the World Bank](http://data.worldbank.org)
+
 [Health Data](http://www.healthdata.gov)
+
 [Amazon Data](http://aws.amazon.com/datasets)
+
 [Data on different countries](http://knoema.com)
+
 [Data on various areas of business and finance](https://www.quandl.com)
+
 [Google Trends](https://www.google.com/trends)
+
 [Google Finance](https://www.google.com/finance)
+
 [Gapminder](http://www.gapminder.org/data)
+
 [Data on millions of songs](https://aws.amazon.com/datasets/million-song-dataset)
+
 [Data on various subjects](http://www.freebase.com)
+
 [DBpedia](http://wiki.dbpedia.org)
+
 [Open Data Monitor](http://opendatamonitor.eu)
+
 [Open data Network](http://www.opendatanetwork.com)
+
 [R Datasets](http://www.stats4stem.org/data-sets.html)
+
 [Datasets](http://www.statsci.org/datasets.html)
+
 [Statistics portal](http://www.statista.com)
+
 [Data 360](http://www.data360.org)
+
 [Face recognition](http://www.face-rec.org/databases)
+
 [Stanfor large network dataset collection](http://snap.stanford.edu/data)
+
 [Datahub](http://datahub.io/dataset)
 
 [Next note here!]()
