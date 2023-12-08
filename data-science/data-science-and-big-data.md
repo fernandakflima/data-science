@@ -62,10 +62,10 @@ Information: 55-21-9999-9999 is a personal telephone number, now there is a cont
 
 ## What are Datasets?
 
-- Data set.
-- Collections of observations.
-- Each observation is typically called a record.
-- Each record has a set of attributes that point out characteristics, behaviors or results.
+- Data set;
+- Collections of observations;
+- Each observation is typically called a record;
+- Each record has a set of attributes that point out characteristics, behaviors or results;
 - Datasets can have one record and one attribute and there is no maximum limit.
 
 ## What about Big Data?
@@ -88,9 +88,9 @@ Big Data is a collection of large and complex data sets that cannot be processed
 Big Data can be composed of data from different sources and different formats.
 
 | | Data Format | |
-|-|-------------------|-|
-| Internal | Structured | Unstructured |
-| | Research results, Sales records, Process control measures, Internal systems databases (ERP, CRM), etc. | Email, Letters, Text Messages, Video Captions, Customer Reviews, Voice Message, Images/Illustrations, Employee Reviews, etc. |
+|-|-------------|-|
+| | Structured | Unstructured |
+| Internal | Research results, Sales records, Process control measures, Internal systems databases (ERP, CRM), etc. | Email, Letters, Text Messages, Video Captions, Customer Reviews, Voice Message, Images/Illustrations, Employee Reviews, etc. |
 | External | Likes on posts, Post publication times, Updates, Score on rating sites, etc. | Content published on social networks, comments in online forums, images, videos from security cameras, etc. |
 
 ## Data Sciences and Big Data
@@ -101,11 +101,10 @@ With the ever-increasing volume of data, we are able to extract patterns, detect
 
 Big Data was largely responsible for the growth of Data Science.
 
-| ERP CRM BI SCM RS | Internal Data | External Data |
-|-------------------|----------------|----------------|
-| Social Media, Text Analysis, API's, Speech Recognition, Natural Language Processing, Internet of Things, Automation, Saas, PaaS | |
-| | Structured, predictable, permanent, easy to obtain. | |
-| | | Unstructured, Random, Volatile, Difficult to obtain. |
+| ERP CRM BI SCM RS | Social Media, Text Analysis, API's, Speech Recognition, Natural Language Processing, Internet of Things, Automation, Saas, PaaS |
+|-------------------|----------------------------------|
+| Internal Data | Structured, predictable, permanent, easy to obtain. |
+| External Data | Unstructured, Random, Volatile, Difficult to obtain. |
 
 > We tend to overestimate the effect of a new technology in the short term and underestimate the effect in the long term. - Roy Amara
 
