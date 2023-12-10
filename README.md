@@ -2,9 +2,9 @@
 
 Documentation of my studies in Data.
 
-## Data Science
+## Content
 
-| Assunto | Anotações |
+| Subject | Notes |
 |---------|-----------|
 | [Data Science](https://github.com/fernandakflima/data-science/tree/main/data-science) | [What is Data Scicen?](https://github.com/fernandakflima/data-science/blob/main/data-science/what-is-data-science.md) |
 | | [Data Science and Big Data](https://github.com/fernandakflima/data-science/blob/main/data-science/data-science-and-big-data.md) |
