@@ -1,31 +1,34 @@
-# Carreiras em Ciência de Dados
+# Careers and Functions
 
-**Analista de Negócios**
+**Data Analyst**
 
-- Estabelecer os objetivos e o âmbito de sistemas de negócios e de TI.
-- Identificar problemas organizacionais e conceber soluções orientadas a dados.
-- Realizar análises e estatísticas, pesquisas e testes.
-- Recomendar mudanças nos processos ou ofertas de produtos para tornar os departamentos internos mais eficientes.
-- Conceber novos sistemas ou alterar os existents.
-- Fazer recomendações específicas de TI e apoiar a sua implementação.
-- Agir como um elo de ligação entre os gestores e equipes técnicas.
-- Coletar requerimentos e necessidades das áreas de negócio.
+- Data analysis, exploratory analysis, visualization and reports.
 
-**Analista de Dados*
+**Data Scientist**
 
-- Trabalhar com as equipes de TI, Gestão e/ou Cientistas de Dados para determinar e realizar o processo de análise de dados.
-- Coletar dados de fontes primárias e secundárias.
-- Efetuar modelagem de dados para análise.
-- Realizar limpeza nos dados e descartar informações irrelevantes.
-- Analisar e interpretar os resultados utilizando ferramentas estatísticas e técnicas convencionais.
-- Identificar tendências, correlações e padrões em conjuntos de dados complexos através de análise de análise esploratória.
-- Identificcar novas oportunidades para melhoria de processos.
-- Concepção, criação e manutenção de bancos de dados relacionais e NoSQL.
-- Resolver problemas de código e questões relacionadas a dados.
-- Dominar linguagens como R, Python ou SQL e saber construir visualizações eficientes.
+- Statistical modeling and predictive modeling with ML and AI.
 
-**Cientista de Dados**
+**Data Engineer**
 
-- Empregar os programas de análise, aprendizado de máquina e métodos estatísticos para preparar os dados para uso de modelagem preditiva e prescritiva.
-- Explorar e analisar dados de uma variedade de ângulos para determinar fraquezas escondidas, tendências e/ou oportunidades.
-- 
+- Creation and implementation of data extraction and storage pipelines.
+
+**ML Engineer**
+
+- Deploy and implement predictive models in production systems.
+
+**Data Architecture**
+
+- Design and planning of data solutions and architectures.
+
+**DataOps Engineer**
+
+- Creation, implementation and maintenance of data operations.
+
+## Soft Skills
+
+- Communication;
+- Creativity;
+- Perseverance;
+- Business sense;
+- Critical thinking for problem solving;
+- Emotional intelligence.
