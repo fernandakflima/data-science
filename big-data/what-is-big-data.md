@@ -30,4 +30,4 @@ To be considered Big Data, the three V's need to be in harmony.
 
 - A network of hospitals can extract, store, process and analyze data from medical examinations in order to personalize and optimize patient care.
 
-[Next note here!0](https://github.com/fernandakflima/data-science/blob/main/big-data/data-storage-system.md)
+[Next note here!](https://github.com/fernandakflima/data-science/blob/main/big-data/data-storage-system.md)
