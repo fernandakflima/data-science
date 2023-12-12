@@ -10,7 +10,7 @@
 - 30 billion images are published per month on Facebook;
 - 200 million active users per month, publish 400 million tweets per day.
 
-**Velocity: data generatio**
+**Velocity: data generation**
 
 - Approximately 100 sensors are installed in modern cars to monitor fuel level, tire pressure and many other aspects of the vehicle.
 
