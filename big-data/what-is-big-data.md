@@ -29,3 +29,5 @@ To be considered Big Data, the three V's need to be in harmony.
 -  A hotel chain can extract, store, process and analyze data from customes comments on social networks to customize your services, increase sales and reduce costs.
 
 - A network of hospitals can extract, store, process and analyze data from medical examinations in order to personalize and optimize patient care.
+
+[Next note here!0](https://github.com/fernandakflima/data-science/blob/main/big-data/data-storage-system.md)
